@@ -3,6 +3,7 @@
 
 Talk-a-tive is a Full Stack Chatting App.
 Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
+
 ## Tech Stack
 
 **Client:** React JS
@@ -12,13 +13,12 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 **Database:** Mongo DB
   
 ## Demo
-
-## Run Locally
+https://mern-chat-application-45w9.onrender.com
 
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
+  https://github.com/Satishagrawal23/Mern-chat-application.git
 ```
 
 Go to the project directory
