@@ -1,4 +1,5 @@
-![login](https://github.com/user-attachments/assets/b5fe9082-9e6f-47d4-9b5f-6ff0f8b502fd)
+![Login](https://github.com/user-attachments/assets/b4a547ed-c23b-4c31-a220-8b450911b446)
+
 # Talk-A-Tive
 
 Talk-a-tive is a Full Stack Chatting App.
@@ -57,8 +58,8 @@ Start the Client
   
 # Features
 ### Authenticaton
-![login](https://github.com/user-attachments/assets/ac7bf492-e7af-4b86-b556-97346e949bb5)
-![signup](https://github.com/user-attachments/assets/fb7b4fd6-8338-495e-97bd-841978443f8f)
+![Login](https://github.com/user-attachments/assets/6088b0f0-f6cf-4955-b89e-12977e3d2c97)
+![Sign-up](https://github.com/user-attachments/assets/1f46b276-b571-4228-b38e-43383dc01542)
 
 ### Real Time Chatting with Typing indicators
 ![real-time](https://github.com/user-attachments/assets/c276c586-a3da-4352-a029-d0059e3b023b)
