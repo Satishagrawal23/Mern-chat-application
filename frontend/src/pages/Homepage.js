@@ -36,15 +36,17 @@ const Homepage = () => {
       >
         <Text
           fontSize="4xl"
-          fontFamily="Work sans"
-          color="black"
+          fontWeight="bold"
+          fontFamily="sans-serif"
+          color="#4267B2"
           textAlign="center"
         >
           Talk-A-Tive
         </Text>
       </Box>
       <Box
-        bg="white"
+        //bg="gray.100" p="5" borderRadius="md"
+        bg="gray.100"
         w="100%"
         p={4}
         borderRadius="lg"
