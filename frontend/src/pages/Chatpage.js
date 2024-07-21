@@ -12,6 +12,7 @@ const Chatpage = () => {
     <div style={{ width: "100%" }}>
       {user && <SideDrawer />}
       <Flex
+        bg="lightblue"
         direction="row"
         justifyContent="space-between"
         w="100%"
